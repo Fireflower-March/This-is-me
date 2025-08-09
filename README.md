@@ -9,24 +9,25 @@
 
 ## 🎮 游戏作品
 
-> 以下是我参与设计/开发的部分游戏作品，按完成时间排序。  
-> 点击“更多展示图”可查看详细截图，点击“下载指引”可获取试玩方式。
+> 以下是我独立设计/开发的游戏作品，按完成时间排序，点击“下载指引”可获取试玩方式。
 
 ---
 
-### 🕹 拾光忆语
+### 🕹 拾光忆语(已上线)
 - **完成时间**：2025年7月
-- **游戏首页**：![封面图](./images/shiguangyiyu/1.jpg)
+- **游戏首页**：<p>
+  <img src="./images/shiguangyiyu/1.jpg" width="180" height="320">
+  <img src="./images/shiguangyiyu/2.jpg" width="180" height="320">
+  <img src="./images/shiguangyiyu/3.jpg" width="180" height="320">
+  <img src="./images/shiguangyiyu/6.jpg" width="180" height="320">
+</p>
+
 - **内容描述**：
   《拾光忆语》是一款聚焦阿尔兹海默症患者家庭的公益游戏，采用数字化的“怀-旧疗法”守护珍贵记忆。我们独创了“亲声”陪伴系统，将家人亲录的声音与充满情感的照片深度绑定，创造出“音画一体”的沉浸式回忆体验，实现超时空情感陪伴，游戏内每一个细节都为用户群体量身打造。此外，我们借用AI绘图和AI语音大模型设计了期望内容的演示模式，供用户家人参考。我们希望《拾光忆语》能让患者逐渐恢复记忆，恢复情感，恢复自己！
-- **更多展示图**：
-  ![截图1](./images/shiguangyiyu/2.jpg)  
-  ![截图2](./images/shiguangyiyu/3.jpg)
 - **下载指引**：
-  [点击下载（PC版）](https://你的下载链接)  
-  [点击下载（安卓）](https://你的下载链接)
+  [点击下载（Android）](https://www.taptap.cn/app/768171)
 - **外部链接**：
-  [试玩视频](https://bilibili.com/video/xxxxx) ｜ [官网/宣传页](https://你的官网链接)
+  [官网/宣传页](https://www.taptap.cn/app/768171)
 
 ---
 
