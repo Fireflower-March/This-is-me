@@ -67,8 +67,7 @@
 
 **📷 项目展示图片**  
 <p>
-  <img src="./images/work_project2_img1.jpg" width="300">
-  <img src="./images/work_project2_img2.jpg" width="300">
+  <img src="./images/发电站.jpg" width="312">
 </p>
 
 **🎬 项目展示视频**  
