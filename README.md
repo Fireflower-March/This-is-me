@@ -72,7 +72,7 @@
 </p>
 
 **🎬 项目展示视频**  
-https://github.com/user-attachments/assets/eef5b3ba-7f91-46a9-a444-5b50c23c415b
+https://github.com/user-attachments/assets/eef5b3ba-7f91-46a9-a444-5b50c23c415b.mp4
 
 
 ---
