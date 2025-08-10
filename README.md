@@ -29,7 +29,7 @@
 
 ---
 
-### 🕹 炸弹冒险
+### 🕹 炸弹冒险(已上线)
 - **完成时间**：2020年9月
 - **游戏首页**：![封面图](./images/Bomb.png)
 - **内容描述**：
@@ -37,16 +37,47 @@
 - **官网链接**：
   [TapTap网页版](https://www.taptap.cn/app/199668)
 
----
+
+## 💼 工作项目
+
+> 以下为我在不同公司期间参与的代表性项目，包含图片与视频展示。
 
 ---
 
-## 📷 游戏作品（图片）
-| 作品 | 预览 | 简介 |
-|------|------|------|
-| 作品1标题 | ![作品1](https://raw.githubusercontent.com/用户名/仓库名/main/images/work1.png) | 这里是作品1的简短说明（功能亮点/设计风格等） |
-| 作品2标题 | ![作品2](https://raw.githubusercontent.com/用户名/仓库名/main/images/work2.png) | 这里是作品2的简短说明 |
-| 作品3标题 | ![作品3](https://raw.githubusercontent.com/用户名/仓库名/main/images/work3.png) | 这里是作品3的简短说明 |
+### 🏢 公司名称 - 福建新大陆
+- **工作时间**：2021年7月 ~ 2021年10月
+- **完成项目名称**：无锡物联网展
+
+**📷 项目展示图片**  
+<p>
+  <img src="./images/wuxi1.jpg" width="312">
+  <img src="./images/wuxi2.jpg" width="312">
+</p>
+
+**📷 项目职责**  
+
+制作整个项目除建模以外的所有3D部分，包含：获取后端场馆人数实时更新热力图、嵌入前端网页同步更新画面、场馆漫游、手控镜头。
+技术：Unity，C#，简单Shader
+
+**🎬 项目展示视频**  
+[![点击观看视频](./images/work_project1_video_thumb.png)](https://www.bilibili.com/video/xxxxx)
+
+---
+
+### 🏢 公司名称 - 部门
+- **工作时间**：2021年7月 ~ 2023年2月
+- **完成项目名称**：工业设备远程监测系统
+
+**📷 项目展示图片**  
+<p>
+  <img src="./images/work_project2_img1.jpg" width="300">
+  <img src="./images/work_project2_img2.jpg" width="300">
+</p>
+
+**🎬 项目展示视频**  
+[![点击观看视频](./images/work_project2_video_thumb.png)](https://www.youtube.com/watch?v=xxxxx)
+
+---
 
 ---
 
