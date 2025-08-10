@@ -15,7 +15,7 @@
 
 ### 🕹 拾光忆语(已上线)
 - **完成时间**：2025年7月
-- **游戏首页**：<p>
+- **游戏截图**：<p>
   <img src="./images/shiguangyiyu/1.jpg" width="180" height="320">
   <img src="./images/shiguangyiyu/2.jpg" width="180" height="320">
   <img src="./images/shiguangyiyu/3.jpg" width="180" height="320">
@@ -36,6 +36,23 @@
   你是一名海盗，但在旅行时被其他海盗抓到他们的巢穴，你携带着可以放置炸弹的包裹，但他们都同样有着针对炸弹的不同技能，将他们都击退吧，成为最强海盗！
 - **官网链接**：
   [TapTap网页版](https://www.taptap.cn/app/199668)
+
+  ---
+
+### 🕹 喧闹小镇(本科毕业设计)
+- **完成时间**：2021年6月
+- **内容描述**：
+  由于当年糖豆人非常火爆，突发奇想决定模仿作为毕业设计，游戏内除人物外所有模型都是PS+C4D绘制。
+- **游戏截图**：
+<p>
+  <img src="./images/毕设/毕设封面2.jpg" width="312">
+  <img src="./images/毕设/毕设封面3.jpg" width="312">
+  <img src="./images/毕设/棒球少年.jpg" width="312">
+  <img src="./images/毕设/憨批绿毛.jpg" width="312">
+</p>
+
+
+
 
 
 ## 💼 工作项目
