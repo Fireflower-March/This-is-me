@@ -66,7 +66,7 @@
 - **完成时间**：2019年10月
 - **内容描述**：带组制作的一个游戏网站，负责Axure的全部内容
 - **游戏截图**：<p>
-  <img src="./images/axure.png" width="312">
+  <img src="./images/axure.png" width="416">
 </p>
 
 
